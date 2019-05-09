@@ -1,4 +1,4 @@
-*This is a little thing of me to play and study through project base  
+*This is a little thing of me to play and study through project base  *
 
 How to run the model
 
